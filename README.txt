@@ -1,6 +1,6 @@
 -------- 4202 Final Project - Ambulance Response Time Evaluation --------
 
-Author: Igor Tascu 101181093
+Author: Igor Tascu
 
 Folders & Files:
 arcGisData:
