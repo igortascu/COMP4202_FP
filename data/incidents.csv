@@ -1,0 +1,4 @@
+id,type,lat,lon,severity
+101,Critical,45.4235,-75.695,3
+102,Moderate,45.42,-75.7,2
+103,Minor,45.4195,-75.693,1

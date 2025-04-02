@@ -1,0 +1,5 @@
+id,name,lat,lon,status
+1,Ambulance A,45.3905,-75.7221,available
+2,Ambulance B,45.437,-75.6705,available
+3,Ambulance C,45.4482,-75.715,busy
+4,Ambulance D,45.4102,-75.6848,available
